@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container/All-In-One-FantasyGame"/>
+	<classpathentry kind="lib" path="src/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="src/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="src/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="src/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="src/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/juli-6.0.26.jar"/>
+	<classpathentry kind="lib" path="src/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="src/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="src/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

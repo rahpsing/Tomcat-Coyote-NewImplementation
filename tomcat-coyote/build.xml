@@ -1,0 +1,19 @@
+<project default="compile">
+    <target name="compile">
+        <mkdir dir="bin"/>
+    	
+        <javac srcdir="src" destdir="bin">
+        	<classpath>
+        		 
+        	
+        	   <pathelement path="dependencies/tomcat-util.jar"/>
+        		 <pathelement path="dependencies/servlet-api.jar"/>
+        	    <pathelement path="dependencies/tomcat-api.jar"/>
+        	    <pathelement path="dependencies/tomcat-jdbc.jar"/>
+        	    <pathelement path="dependencies/tomcat7-websocket.jar"/>
+        		 <pathelement path="dependencies/catalina-ant.jar"/>
+        		<pathelement path="dependencies/juli-6.0.26.jar"/>
+        	    </classpath>
+        	</javac>
+    </target>
+</project>
